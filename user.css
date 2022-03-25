@@ -1,0 +1,53 @@
+.page{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    width:700px;
+    margin:0 auto;
+    
+}
+
+.container{
+    width:100%;
+    border: 1px solid grey;
+    overflow:hidden;
+    margin-bottom: 20px;
+}
+.header{
+    background-color:#1e9dbd;
+    height:100px;
+    width:100%;
+    margin-bottom:70px;
+}
+
+.profile{
+    height:125px;
+    width:125px;
+    padding:5px;
+    border-radius:50%;
+    left:25px;
+    margin-top:20px;
+    margin-left:20px;
+}
+
+.content{
+    
+    width:100%;
+    margin:20px 30px;
+}
+
+h1{
+    font-family:'Bubbler One', sans-serif;;
+}
+
+.icon, .gear {
+    height:20px;
+    margin:0px 5px;
+}
+p{
+    font-family: Helvetica, sans-serif;
+}
+
+#link{
+    text-decoration: underline;
+}

@@ -1,0 +1,35 @@
+h1,h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.top{
+    background-color:#320ec4;
+}
+
+.middle{
+    background-color:#07a2ba;
+}
+
+.bottom{
+    background-color:#28ad90;
+}
+
+.top,.middle,.bottom{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin:20px 25px;
+    padding:10px;
+    height:300px;
+    width: 96%;
+}
+
+.cat{
+    height: 95%;
+}
+
+.footer{
+    height:100px;
+    text-align: center;
+}

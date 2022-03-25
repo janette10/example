@@ -1,0 +1,32 @@
+.search, .add, .click {
+    display: block;
+    margin-bottom:10px;
+    height:40px;
+  }
+  
+  .search{
+    border:2px solid green;
+    color:green;
+    border-radius:55px;
+    height:30px;
+    width:120px;
+    font-weight:800;
+    
+  }
+  
+  .add{
+    background-color:#19c230;
+    border-radius:55%; 
+    width:40px;
+    color:white;
+    border:none;
+    font-size:25px;
+  }
+  
+  .click{
+    box-shadow: 5px 5px black;
+    width:150px;
+    color:white;
+    background-color:#2d65e0;
+    border: 2px solid black;
+  }
